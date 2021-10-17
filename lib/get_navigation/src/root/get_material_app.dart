@@ -339,7 +339,7 @@ class GetMaterialApp extends StatelessWidget {
                 showSemanticsDebugger: showSemanticsDebugger,
                 debugShowCheckedModeBanner: debugShowCheckedModeBanner,
                 shortcuts: shortcuts,
-                scrollBehavior: scrollBehavior,
+//                 scrollBehavior: scrollBehavior,
                 //   actions: actions,
               ),
       );
