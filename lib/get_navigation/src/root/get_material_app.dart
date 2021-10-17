@@ -294,7 +294,7 @@ class GetMaterialApp extends StatelessWidget {
                 showSemanticsDebugger: showSemanticsDebugger,
                 debugShowCheckedModeBanner: debugShowCheckedModeBanner,
                 shortcuts: shortcuts,
-                scrollBehavior: scrollBehavior,
+//                 scrollBehavior: scrollBehavior,
               )
             : MaterialApp(
                 key: _.unikey,
